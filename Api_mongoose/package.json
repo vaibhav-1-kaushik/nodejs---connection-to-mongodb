@@ -1,0 +1,11 @@
+{
+  "name": "api_mongoose",
+  "version": "1.0.0",
+  "description": "project_Api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vaibbhav kaushik",
+  "license": "ISC"
+}
